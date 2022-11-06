@@ -17,6 +17,7 @@ Security Orchestration Automation and Response
 Level-1 is simulating the identification and filtering of malicious IP addresses.
 What is the flag? </br>
 ![bad traffic ](https://user-images.githubusercontent.com/29118886/200153295-46070c5a-aa84-40f9-ac96-a8556fd51885.jpg)
+
 Malicious IP address:  
 10.10.99.99
 10.10.99.62
