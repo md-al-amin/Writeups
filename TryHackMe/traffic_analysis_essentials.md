@@ -16,10 +16,21 @@ Security Orchestration Automation and Response
 
 Level-1 is simulating the identification and filtering of malicious IP addresses.
 What is the flag? 
+![bad traffic ](https://user-images.githubusercontent.com/29118886/200153295-46070c5a-aa84-40f9-ac96-a8556fd51885.jpg)
+Malicious IP address:  
+10.10.99.99
+10.10.99.62
 
 
+Level-2 is simulating the identification and filtering of malicious IP and Port addresses.
+What is the flag?
 
+![6](https://user-images.githubusercontent.com/29118886/200154195-52798d29-fa82-498f-be90-d2e5180c0198.jpg)
 
+Unknown ports are malicious port
 
+![unknown port](https://user-images.githubusercontent.com/29118886/200154313-a15e8e0d-2982-4c69-a42a-dc112224b449.jpg)
+
+Malicious port: 4444,2222,7777
 
 
