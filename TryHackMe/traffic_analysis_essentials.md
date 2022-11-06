@@ -21,6 +21,8 @@ Malicious IP address:
 10.10.99.99
 10.10.99.62
 
+![4](https://user-images.githubusercontent.com/29118886/200154455-d136c678-4b1b-4bfd-8875-d41f33b812af.jpg)
+
 
 Level-2 is simulating the identification and filtering of malicious IP and Port addresses.
 What is the flag?
@@ -33,4 +35,5 @@ Unknown ports are malicious port
 
 Malicious port: 4444,2222,7777
 
+![second glag](https://user-images.githubusercontent.com/29118886/200154468-bb342e79-b7ef-43bf-948b-8ac8c41b0731.jpg)
 
