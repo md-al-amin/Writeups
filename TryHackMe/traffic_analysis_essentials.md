@@ -4,18 +4,18 @@
 Writeup of Traffic Analysis Essentials
 
 #Task 2 </br>
-Which Security Control Level covers contain creating security policies?
+Which Security Control Level covers contain creating security policies?</br>
 Administrative security controls provide consistency in security operations like creating policies, access levels and authentication processes.
 
-Which Access Control element works with data metrics to manage data flow?
+Which Access Control element works with data metrics to manage data flow?</br>
 Load Balancing: Controls the resource usage to distribute (based on metrics) tasks over a set of resources and improve overall data processing flow.
 
-Which technology helps correlate different tool outputs and data sources?
+Which technology helps correlate different tool outputs and data sources?</br>
 Security Orchestration Automation and Response
 
 
 Level-1 is simulating the identification and filtering of malicious IP addresses.
-What is the flag? 
+What is the flag? </br>
 ![bad traffic ](https://user-images.githubusercontent.com/29118886/200153295-46070c5a-aa84-40f9-ac96-a8556fd51885.jpg)
 Malicious IP address:  
 10.10.99.99
@@ -25,11 +25,11 @@ Malicious IP address:
 
 
 Level-2 is simulating the identification and filtering of malicious IP and Port addresses.
-What is the flag?
+What is the flag?</br>
 
 ![6](https://user-images.githubusercontent.com/29118886/200154195-52798d29-fa82-498f-be90-d2e5180c0198.jpg)
 
-Unknown ports are malicious port
+Unknown ports are malicious port </br>
 
 ![unknown port](https://user-images.githubusercontent.com/29118886/200154313-a15e8e0d-2982-4c69-a42a-dc112224b449.jpg)
 
