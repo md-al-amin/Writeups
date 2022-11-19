@@ -2,7 +2,8 @@
 
 Solution of https://tryhackme.com/room/neighbour
 
-# Step-1: visit the link using http://ipaddress 
+# Step-1: visit the link using Neighbour-newapp ip address
+http://ipaddress 
 
 ![0](https://user-images.githubusercontent.com/29118886/202838119-b7ac6eb6-4d8a-4c3f-a6f7-edbb95aaac2d.jpg)
 
